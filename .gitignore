@@ -1,0 +1,14 @@
+__pycache__
+cache
+data/**
+trash
+visualize
+experiement
+test_run
+/experiment**
+**.pdb
+**.zip
+**.npy
+**.png
+**.csv
+workdir
